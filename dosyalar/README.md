@@ -9,4 +9,4 @@ https://leafletjs.com/examples/quick-start/
 -Javascript programlama diliyle dinamik bir harita yapısı oluşturuldu.
 
 
-<img src ="tasarım.gif" />
+<img src="screen3.gif">
